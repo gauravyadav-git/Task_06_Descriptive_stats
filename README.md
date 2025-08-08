@@ -29,19 +29,20 @@ In Task 05, I:
 
 ## 📂 Repository Contents
 
-| File Name                                         | Description                                                                 |
-| **Premier_League**                                | Excel dataset of the 2022–23 Premier League season.                         |
-| **Premier_League_bar_Away_Goals.png**             | Bar chart of away goals by stadium.                                         |
-| **Premier_League_bar_away_possessions.png**       | Bar chart of away possessions by stadium.                                   |
-| **Premier_League_bar_Goals_Home.png**             | Bar chart of home goals by stadium.                                         |
-| **Premier_League_bar_home_possessions.png**       | Bar chart of home possessions by stadium.                                   |
-| **Premier_League_bar_home_chances.png**           | Bar chart of home chances by stadium.                                       |
-| **Premier_League_bar_away_chances.png**           | Bar chart of away chances by stadium.                                       |
-| **Prompt_log.txt**                                | Record of LLM prompts used in Task 06.                                      |
-| **qa_results.xlsx**                               | Python-generated results for questions that require extra computation.      |
-| **questions.txt**                                 | The 10 Questions for Task 06.                                               |
-| **summary_grouped_by_stadium_Premier_League.xls** | Stadium-level descriptive statistics (pivot-style summary).                 |
-| **Task_06_descriptive_stats.ipynb**               | Jupyter Notebook containing all Python code for Task 06.                    |
+| File Name | Description |
+|-----------|-------------|
+| **Premier_League** | Excel dataset of the 2022–23 Premier League season. |
+| **Premier_League_bar_Away_Goals.png** | Bar chart of away goals by stadium. |
+| **Premier_League_bar_away_possessions.png** | Bar chart of away possessions by stadium. |
+| **Premier_League_bar_Goals_Home.png** | Bar chart of home goals by stadium. |
+| **Premier_League_bar_home_possessions.png** | Bar chart of home possessions by stadium. |
+| **Premier_League_bar_home_chances.png** | Bar chart of home chances by stadium. |
+| **Premier_League_bar_away_chances.png** | Bar chart of away chances by stadium. |
+| **Prompt_log.txt** | Record of LLM prompts used in Task 06. |
+| **qa_results.xlsx** | Python-generated results for questions that require extra computation. |
+| **questions.txt** | The 10 LLM prompts for Task 06. |
+| **summary_grouped_by_stadium_Premier_League.xls** | Stadium-level descriptive statistics (pivot-style summary). |
+| **Task_06_descriptive_stats.ipynb** | Jupyter Notebook containing all Python code for Task 06. |
 
 ---
 
