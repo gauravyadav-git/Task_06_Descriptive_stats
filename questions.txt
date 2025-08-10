@@ -1,0 +1,24 @@
+🟢 Easy
+How many matches were played at each stadium?
+
+What is the average number of home goals scored at each stadium?
+
+🟡 Moderate
+What is the standard deviation of away goals scored at each stadium?
+
+Which stadium has the highest average home possession across all games played there?
+
+🔵 Complex
+Which stadium has the largest variability in home team goals (based on standard deviation)?
+
+At which stadium was the highest number of total goals (home + away) recorded in a single match?
+
+🧠 Reasoning
+Does any stadium consistently result in lower-scoring games?
+
+Which stadium seems to provide the strongest home advantage in terms of average goals?
+
+🎯 Coaching Insight
+If a team plays at Stadium X, what strategic advantage or disadvantage might they have based on past data?
+
+Are there stadiums where possession seems to correlate with higher goal-scoring outcomes for home teams?

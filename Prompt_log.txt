@@ -1,0 +1,43 @@
+1. Here is a Premier League dataset. Each row represents one match. The dataset includes columns such as "Goals Home", "Away Goals", "home_possessions", and "away_possessions".
+
+CSV Data: *The dataset was attached*
+
+2. Question: [How many matches were played at each stadium?]
+
+Please analyze the dataset and provide your answer based on the values shown. If possible, explain your reasoning.
+
+3. Question: [What is the average number of home goals scored at each stadium?]
+
+Please analyze the dataset and provide your answer based on the values shown. If possible, explain your reasoning.
+
+4. Question: [What is the standard deviation of away goals scored at each stadium?]
+
+Please analyze the dataset and provide your answer based on the values shown. If possible, explain your reasoning.
+
+5. Question: [Which stadium has the highest average home possession across all games played there?]
+
+Please analyze the dataset and provide your answer based on the values shown. If possible, explain your reasoning.
+
+6. Question: [Which stadium has the largest variability in home team goals (based on standard deviation)?]
+
+Please analyze the dataset and provide your answer based on the values shown. If possible, explain your reasoning.
+
+7. Question: [At which stadium was the highest number of total goals (home + away) recorded in a single match?]
+
+Please analyze the dataset and provide your answer based on the values shown. If possible, explain your reasoning.
+
+8. Question: [Does any stadium consistently result in lower-scoring games?]
+
+Please analyze the dataset and provide your answer based on the values shown. If possible, explain your reasoning.
+
+9. Question: [Which stadium seems to provide the strongest home advantage in terms of average goals?]
+
+Please analyze the dataset and provide your answer based on the values shown. If possible, explain your reasoning.
+
+10. Question: [If a team plays at Stadium X, what strategic advantage or disadvantage might they have based on past data?]
+
+Please analyze the dataset and provide your answer based on the values shown. If possible, explain your reasoning.
+
+11. Question: [Are there stadiums where possession seems to correlate with higher goal-scoring outcomes for home teams?]
+
+Please analyze the dataset and provide your answer based on the values shown. If possible, explain your reasoning.
